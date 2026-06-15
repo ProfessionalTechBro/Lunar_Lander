@@ -1,0 +1,4 @@
+gymnasium[box2d]
+huggingface_sb3
+stable-baselines3==2.0.0a5
+cmake
