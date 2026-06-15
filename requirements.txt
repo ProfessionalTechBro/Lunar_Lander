@@ -1,3 +1,5 @@
 stable-baselines3==2.0.0a5
-gymnasium[box2d]
+swig
+gymnasium
+box2d-py
 huggingface_sb3
